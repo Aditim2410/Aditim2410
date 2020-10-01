@@ -38,13 +38,13 @@
 
 ### 💬 Ask me about
 
--Photography
+- Photography
 
--Books
+- Books
 
--Cooking 
+- Cooking 
 
--Paintings
+- Paintings
 
 ### 📫 How to reach me:
 
@@ -55,7 +55,7 @@ Twitter-  https://twitter.com/aditimokasdar
 
 ### ⚡ Fun fact: 
 
- -I have written Non technical blogs including Movie reviews,travel reviews,News Bytes for various websites
+ - I have written Non technical blogs including Movie reviews,travel reviews,News Bytes for various websites
  
  
  ![](https://komarev.com/ghpvc/?username=Aditim2410)
