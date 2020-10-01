@@ -3,11 +3,11 @@
  
  
  ### Technical Skills
- 
- -- Automation Framework Building Skills:
-- Hybrid&Page Object Model 
-- Selenium WebDriver, (TestNg)
-- BDD (Cucumber-JVM),Junit
+
+ - BDD (Cucumber) 
+ - Hybrid&Page Object Model 
+ - Selenium WebDriver,TestNg
+ - Junit
 - GIT, Maven
 - CI Jenkins 
 - Log4j
@@ -22,7 +22,8 @@
 - Protractor
 
 ### Domain Knowledge
- Payment Domain
+
+  Payment Domain
 - Credit and Debit card Processings
 - E-wallet Processings
 - Authentication,Authorization,Refunds,Tokens
@@ -33,10 +34,7 @@
 ### Certification:
 - Scrum Fundamentals Certified (SFC™)
 
-### Looking for
--SDET Roles
 
--Automation Engineer Roles
 
 ### 💬 Ask me about
 
