@@ -55,5 +55,5 @@ Twitter-  https://twitter.com/aditimokasdar
 
 ### ⚡ Fun fact: 
 
- -I write Non technical blogs including Movie reviews,travel reviews for various websites
+ -I have written Non technical blogs including Movie reviews,travel reviews for various websites
 
