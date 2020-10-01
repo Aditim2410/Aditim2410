@@ -1,5 +1,5 @@
 ### Hi there 👋
- I am Software Tester having near about 4.9+ years of experience in Functional Testing and Test Automation.
+ I am Software Tester having near about 4.8+ years of experience in Functional Testing and Test Automation.
  
  
  ### Technical Skills
