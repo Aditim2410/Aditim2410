@@ -13,6 +13,7 @@
 - Log4j,
 - Basics of Typescript and Javascript
 - Putty
+- Manual Testing
 
 
  ### Other Tools & Technologies:
