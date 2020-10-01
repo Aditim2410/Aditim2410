@@ -39,8 +39,11 @@
 ### 💬 Ask me about
 
 -Photography
+
 -Books
+
 -Cooking 
+
 -Paintings
 
 ### 📫 How to reach me:
